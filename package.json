@@ -1,0 +1,22 @@
+{
+  "name": "pathways_common",
+  "version": "1.0.0",
+  "description": "a place for shared constants, schemas, models, utils & possibly small libs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://alansynnestvedt@bitbucket.org/medtrak_team/pathways_common.git"
+  },
+  "author": "",
+  "license": "",
+  "homepage": "https://bitbucket.org/medtrak_team/pathways_common#readme",
+  "dependencies": {
+    "mongoose": "^5.1.6",
+    "mongoose-json-patch-history": "^1.0.2",
+    "randomatic": "^3.0.0",
+    "rrule": "^2.2.9"
+  }
+}
